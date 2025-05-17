@@ -1,0 +1,3 @@
+[submodule "esp-sensors"]
+	path = esp-sensors
+	url = ./esp-sensors
