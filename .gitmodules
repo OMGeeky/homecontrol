@@ -1,3 +1,6 @@
 [submodule "esp-sensors"]
 	path = esp-sensors
 	url = git@github.com:OMGeeky/homecontrol.esp-sensors.git
+[submodule "esp-bridge"]
+	path = esp-bridge
+	url = git@github.com:OMGeeky/homecontrol.esp-bridge.git
